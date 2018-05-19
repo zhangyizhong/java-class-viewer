@@ -8,3 +8,6 @@ original repo: https://code.google.com/p/freeinternals/
 This fork is to provide a maven build as I needed maven artifacts for
 a small project.
 
+1. 如何使用Java-Class-Viewer
+https://www.codeproject.com/Articles/35915/Java-Class-Viewer
+user:z_y_z
